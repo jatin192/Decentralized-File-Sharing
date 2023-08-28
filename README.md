@@ -1,7 +1,6 @@
 # Decentralized File Sharing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
+### Decentralised file sharing is an extended version of IPFS with, you can also share your photos with your friend.
 
 https://github.com/jatin192/Decentralized-File-Sharing/assets/73174196/006ec6aa-77db-4d08-84dd-0a59af59b8cb
 
@@ -9,12 +8,12 @@ https://github.com/jatin192/Decentralized-File-Sharing/assets/73174196/006ec6aa-
 
 # Installation
 
-To run the Decentralize Portfolio starter project locally, follow these steps:
+To run the Decentralize Decentralized File Sharing Applicatioin locally, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:jatin192/Decentralized-File-Sharing.git
+   git clone https://github.com/jatin192/Decentralized-File-Sharing.git
    ```
 
 2. Install the required dependencies and start Hardhat local Blockchain:
@@ -46,6 +45,7 @@ Decentralize File Sharing Project is built using the following technologies:
 - [Hardhat](https://hardhat.org/) - Hardhat is a development environment for Ethereum software
 - [Solidity](https://docs.soliditylang.org/) - The smart contract programming language for Ethereum.
 - [Metamask](https://metamask.io/)  - MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain.
+- [React](https://react.dev/) -React is used for building interactive user interfaces and web applications quickly and efficiently.
 
 
 ## Resources
