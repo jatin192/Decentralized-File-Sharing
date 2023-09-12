@@ -1,10 +1,13 @@
-# Decentralized File Sharing
+
+# Website live at : https://blockchain19.netlify.app/
 
 ### Decentralised file sharing is an extended version of IPFS with, you can also share your photos with your friend.
 
+
+
 https://github.com/jatin192/Decentralized-File-Sharing/assets/73174196/006ec6aa-77db-4d08-84dd-0a59af59b8cb
 
-Website live ata : https://blockchain19.netlify.app/
+
 
 # Installation
 
